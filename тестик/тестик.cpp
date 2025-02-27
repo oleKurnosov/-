@@ -2,5 +2,5 @@
 
 int main()
 {
-    std::cout << " vsem hai! eto test!";
+    std::cout << " vsem hai! eto test, pomenal!";
 }
